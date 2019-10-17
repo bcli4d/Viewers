@@ -33,3 +33,5 @@ videos/
 
 # Locize settings
 .locize
+
+platform/viewer/public/config/google.js
